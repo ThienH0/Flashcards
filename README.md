@@ -1,5 +1,3 @@
-# Steps needed to complete project "[**_Flashcards_**](https://hyperskill.org/projects/127)"
-
 ## <br/>Stage 1:
 ### _Stage one, card one_
 A flashcard is a digital or paper card that contains a term on one side, and a definition, translation, or explanation of that term on the other. Flashcards are often used for learning foreign languages and are an effective study technique for many people.
